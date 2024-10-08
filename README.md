@@ -12,7 +12,7 @@ if you have 21 years old
 `Age : 20, Normal : 100-170 , BPM : 200`
 Age is approximate
 Normal heart rate in your age is 100 - 170
-and BPM 200
+and BPM 200.
 This output is understandable
 
 ### Source Soon 
