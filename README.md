@@ -7,12 +7,13 @@ Im Parsa and i can program with go language.
 This is a formal (heart beat * 2) in 30 second.
 ![How take Heartbeat in minutes ](https://www.mizanonline.ir/wp-content/uploads/2022/01/1211607_995.jpg)
 ## 2 - Heartbeat Zone 
-for example 
+for example :
+***
+
 if you have 21 years old 
 `Age : 20, Normal : 100-170 , BPM : 200`
-Age is approximate
 Normal heart rate in your age is 100 - 170
-and BPM 200.
-This output is understandable
+and BPM 200
 
-### Source Soon 
+***
+This output is understandable
